@@ -11,5 +11,5 @@ let table = $('table tr')
 const reportWin = (rowNum, colNum)=>{
   console.log('You won starting at this row, col')
   console.console.log(rowNum)
-  console.console.log(colNum);
+  console.console.log(colNum)
 }
